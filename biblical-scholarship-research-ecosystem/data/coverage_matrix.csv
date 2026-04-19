@@ -1,0 +1,21 @@
+area,required_layers,current_priority,audit_note
+Hebrew Bible / Pentateuch,primary editions;source criticism;ANE law;Samaritan;DSS;LXX;global-critical;reception,high,article-level and non-English redaction scholarship need continuous updating
+Hebrew Bible / Former Prophets,Deuteronomistic history;archaeology;epigraphy;violence;land;Indigenous critique,medium-high,needs site report integration and ethics of conquest reception
+Hebrew Bible / Prophets,formation;empire;trauma;LXX/MT;gender;Book of the Twelve,medium-high,needs book-by-book article clusters and reception
+Hebrew Bible / Psalms and Writings,poetry;liturgy;wisdom;apocalyptic;reception;music,medium,needs stronger music/liturgy and non-English scholarship
+Apocrypha / Deuterocanon,critical editions;Second Temple contexts;versions;canon;reception,medium,needs Orthodox/Catholic/Ethiopian and article-level coverage
+Historical Jesus,criteria;memory;orality;Galilee archaeology;Jewish context;anti-Judaism,medium,dedicated shelf required
+Synoptic Problem,Q;Farrer;Two-Gospel;minor agreements;Marcion;orality,medium,needs explicit debate map
+Paul,New Perspective;Paul within Judaism;apocalyptic;empire;race;slavery;gender,medium-high,needs current article clusters and Jewish scholarship
+NT Textual Criticism,ECM;CBGM;papyri;versions;patristic citations;scribal habits,medium,needs versional and lectionary layer
+Septuagint,Göttingen;translation technique;Hexapla;recensions;book-level LXX,medium,book-by-book LXX needed
+Dead Sea Scrolls / Qumran,DJD;Orion;sectarianism;law;rewritten scripture;archaeology;forgeries,medium-high,provenance and current manuscript debates needed
+Rabbinics,Mishnah;Tosefta;Talmuds;midrash;targum;piyyut;Geniza;Hebrew scholarship,low-medium,must become independent field file
+Archaeology / Epigraphy,site reports;inscriptions;ostraca;coins;GIS;provenance,medium,needs final report and ethics controls
+Early Christianity / Patristics,Apostolic Fathers;apocrypha;Nag Hammadi;martyrdom;liturgy;exegesis,medium,needs beyond-NT Christian origins coverage
+Islam / Qur'an / Arabic Bible,Qur'an;tafsir;israiliyyat;tahrif;Christian Arabic;Jewish Arabic,low-medium,major adjacent scripture gap
+Global and Critical Interpretation,feminist;womanist;Black;Latinx;Asian;African;Indigenous;queer;disability;ecology;trauma,medium,must be integrated book-by-book
+Reception / Liturgy / Lived Religion,art;music;preaching;children;film;Bible apps;ethnography;liturgy,medium,needs non-elite reception artifacts
+Digital Humanities,corpora;TEI;IIIF;GIS;stylometry;text reuse;linked data,low-medium,needs workflows and reproducibility
+Pedagogy / Public Bible,teaching;public scholarship;museums;law;religious literacy,low-medium,underrepresented in standard bibliographies
+Ethics / Provenance,looting;forgeries;museum ethics;colonial archaeology;human remains,low-medium,mandatory for artifacts and manuscripts

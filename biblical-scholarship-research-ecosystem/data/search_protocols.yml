@@ -1,0 +1,169 @@
+# Search protocols for article-level harvesting.
+# Syntax is intentionally generic. Adapt operators to Atla, OTA/NTA, RAMBI, IxTheo, L'Année philologique, JSTOR, Project MUSE, Brill, De Gruyter, Oxford Academic, Cambridge Core, and local library databases.
+
+hebrew_bible:
+  pentateuch_formation:
+    indexes: [Old Testament Abstracts, Atla Religion Database, Index Theologicus, RAMBI]
+    journals: [ZAW, Vetus Testamentum, JSOT, JBL, CBQ, Biblica, Revue Biblique, Hebrew Bible and Ancient Israel]
+    queries:
+      - 'Pentateuch AND (composition OR formation OR source criticism OR Documentary Hypothesis OR Neo-Documentary)'
+      - 'Priestly AND (Holiness Code OR H OR P OR redaction OR Fortschreibung)'
+      - 'Deuteronomy AND (legal revision OR covenant OR treaty OR centralization)'
+      - 'Genesis AND Exodus AND (composition OR redaction OR formation)'
+      - 'Pentateuch AND (Samaritan Pentateuch OR Qumran OR Septuagint OR Vorlage)'
+  law_and_covenant:
+    indexes: [Old Testament Abstracts, Atla, LAnneePhilologique, Index Theologicus]
+    queries:
+      - 'Covenant Code AND cuneiform law'
+      - 'biblical law AND (Middle Assyrian OR Hammurabi OR Hittite OR treaty)'
+      - 'Deuteronomic law AND legal revision'
+      - 'Leviticus AND (purity OR sacrifice OR atonement OR holiness)'
+  prophets:
+    indexes: [Old Testament Abstracts, Atla, IxTheo]
+    queries:
+      - 'Isaiah AND (composition OR redaction OR servant OR empire OR Assyria)'
+      - 'Jeremiah AND (Septuagint OR shorter edition OR trauma OR exile)'
+      - 'Ezekiel AND (priestly OR temple OR trauma OR body OR Gog)'
+      - 'Book of the Twelve AND (composition OR redaction OR canonical)'
+      - 'prophetic literature AND (empire OR trauma OR gender OR postcolonial)'
+  psalms_wisdom:
+    indexes: [Old Testament Abstracts, Atla, RILM, Index Religiosus]
+    queries:
+      - 'Psalms AND (canonical shape OR editorial shaping OR cult OR liturgy)'
+      - 'Psalms AND (music OR chant OR piyyut OR reception)'
+      - 'Job AND (theodicy OR disability OR trauma OR creation OR Leviathan)'
+      - 'Proverbs AND (Woman Wisdom OR pedagogy OR gender OR Egypt)'
+      - 'Ecclesiastes OR Qoheleth AND (skepticism OR Hellenistic OR wisdom)'
+
+new_testament:
+  historical_jesus:
+    indexes: [New Testament Abstracts, Atla, LAnneePhilologique, Index Theologicus]
+    journals: [Journal for the Study of the Historical Jesus, NTS, NovT, JSNT, JBL, CBQ, ZNW]
+    queries:
+      - 'historical Jesus AND (criteria OR authenticity OR memory OR orality)'
+      - 'Jesus tradition AND (social memory OR oral tradition OR performance)'
+      - 'Jesus AND Galilee AND archaeology'
+      - 'Jesus AND (kingdom of God OR eschatology OR apocalyptic)'
+      - 'Passion narrative AND (anti-Judaism OR trial OR crucifixion)'
+  synoptic_problem:
+    indexes: [New Testament Abstracts, Atla, Index Theologicus]
+    queries:
+      - 'Synoptic Problem AND (Q OR Two Source OR Two-Source)'
+      - 'Farrer hypothesis OR Mark without Q'
+      - 'minor agreements AND Matthew AND Luke'
+      - 'fatigue AND Synoptics'
+      - 'Marcion AND Luke AND Synoptic Problem'
+  paul:
+    indexes: [New Testament Abstracts, Atla, Index Theologicus, RAMBI]
+    journals: [Journal for the Study of Paul and His Letters, NTS, NovT, JSNT, JBL, CBQ, ZNW]
+    queries:
+      - 'Paul AND (New Perspective OR Paul within Judaism OR covenantal nomism)'
+      - 'Paul AND (pistis Christou OR faithfulness of Christ)'
+      - 'Paul AND (apocalyptic OR participation OR union with Christ)'
+      - 'Romans AND (Israel OR law OR empire OR ethnicity OR race)'
+      - 'Galatians AND (circumcision OR Hagar OR law OR apocalyptic)'
+      - 'Philemon AND slavery'
+      - 'Paul AND (slavery OR household OR gender OR masculinity)'
+  revelation:
+    indexes: [New Testament Abstracts, Atla, LAnneePhilologique]
+    queries:
+      - 'Revelation AND (empire OR imperial cult OR Asia Minor)'
+      - 'Revelation AND (gender OR Babylon OR Bride OR violence)'
+      - 'Revelation AND (ecology OR trauma OR apocalypse OR reception)'
+
+textual_criticism_versions:
+  hebrew_bible:
+    indexes: [Atla, Old Testament Abstracts, IxTheo, RAMBI]
+    journals: [TC, Textus, Dead Sea Discoveries, Vetus Testamentum]
+    queries:
+      - 'Hebrew Bible textual criticism AND (Masoretic OR Qumran OR Samaritan OR Septuagint)'
+      - 'Biblia Hebraica Quinta AND (method OR apparatus OR textual commentary)'
+      - 'Jeremiah AND (MT LXX OR shorter edition OR 4QJer)'
+      - 'Samuel AND (4QSama OR Septuagint OR textual criticism)'
+  septuagint:
+    indexes: [Atla, IxTheo, LAnneePhilologique]
+    journals: [Journal of Septuagint and Cognate Studies, Vetus Testamentum, Textus]
+    queries:
+      - 'Septuagint AND translation technique'
+      - 'Septuagint AND (kaige OR Hexapla OR Aquila OR Symmachus OR Theodotion)'
+      - 'Septuagint AND Vorlage AND (Genesis OR Jeremiah OR Samuel OR Psalms OR Daniel)'
+  new_testament:
+    indexes: [New Testament Abstracts, Atla, IxTheo]
+    journals: [TC, NTS, NovT, JBL, JTS]
+    queries:
+      - 'New Testament textual criticism AND (CBGM OR ECM OR initial text OR Ausgangstext)'
+      - 'New Testament papyri AND scribal habits'
+      - 'patristic citations AND New Testament textual criticism'
+      - 'lectionaries AND New Testament textual criticism'
+
+rabbinics:
+  indexes: [RAMBI, Index to Jewish Periodicals, Atla, JSTOR, IxTheo]
+  journals: [AJS Review, Jewish Quarterly Review, Jewish Studies Quarterly, Journal of Jewish Studies, Tarbiz, Sidra, HUCA]
+  queries:
+    - 'Mishnah AND (redaction OR oral tradition OR pedagogy OR ritual)'
+    - 'Bavli AND (stammaim OR redaction OR sugya OR scholasticism)'
+    - 'midrash AND (intertextuality OR hermeneutics OR petihta OR mashal)'
+    - 'rabbinic law AND (Roman law OR Sasanian law OR legal pluralism)'
+    - 'rabbinic literature AND (gender OR body OR sexuality OR purity)'
+    - 'piyyut AND biblical interpretation'
+
+qumran_second_temple:
+  indexes: [Orion Bibliography, Atla, RAMBI, Index Theologicus]
+  journals: [Dead Sea Discoveries, Revue de Qumran, Meghillot, JSJ, JJS, Journal of Ancient Judaism]
+  queries:
+    - 'Qumran AND (sectarianism OR yahad OR Essenes OR Teacher of Righteousness)'
+    - 'Qumran AND (scriptural authority OR canon OR rewritten scripture)'
+    - '4QMMT OR Temple Scroll OR Damascus Document AND halakhah'
+    - 'Qumran AND (calendar OR purity OR liturgy OR wisdom)'
+    - 'Second Temple Judaism AND (apocalyptic OR Enoch OR Jubilees OR Ben Sira)'
+    - 'Philo AND (allegory OR Torah OR politics OR Logos)'
+    - 'Josephus AND (historiography OR Pharisees OR Essenes OR Rome)'
+
+early_christianity:
+  indexes: [Atla, LAnneePhilologique, Index Theologicus, Bibliographia Patristica]
+  journals: [Vigiliae Christianae, JECS, Early Christianity, Studia Patristica, JTS]
+  queries:
+    - 'Apostolic Fathers AND scripture'
+    - 'Gospel of Thomas AND Synoptic'
+    - 'Gospel of Mary AND authority AND gender'
+    - 'Marcion AND (Gospel OR Apostolikon OR canon)'
+    - 'gnosticism AND category'
+    - 'early Christian martyrdom AND memory'
+    - 'patristic exegesis AND anti-Judaism'
+    - 'early Christian liturgy AND scripture'
+
+islam_quran_bible:
+  indexes: [Index Islamicus, Atla, RAMBI, Index Theologicus]
+  journals: [Journal of Quranic Studies, Arabica, Islam and Christian-Muslim Relations, Hugoye, Le Museon]
+  queries:
+    - 'Quran AND Bible AND late antiquity'
+    - 'Quran AND (Syriac OR midrash OR apocrypha)'
+    - 'tahrif AND Bible'
+    - 'Maryam AND Protevangelium OR infancy gospel'
+    - 'Moses AND Quran AND Exodus'
+    - 'Arabic Bible manuscripts AND Gospels'
+    - 'Saadia AND Arabic Bible translation'
+
+reception_lived_religion:
+  indexes: [Atla, MLA, RILM, International Medieval Bibliography, Iter, Art Index, AnthroSource, Sociological Abstracts]
+  queries:
+    - 'Bible AND reception AND (art OR iconography OR film OR music OR comics)'
+    - 'Exodus AND (abolition OR civil rights OR Black preaching OR liberation)'
+    - 'Psalms AND (chant OR hymnody OR piyyut OR liturgy)'
+    - 'Revelation AND (politics OR millenarianism OR film OR popular culture)'
+    - 'Bible study AND ethnography'
+    - "children's Bibles AND reception"
+    - 'Bible translation AND colonialism'
+
+global_critical:
+  indexes: [Atla, RAMBI, JSTOR, Project MUSE, Index Theologicus]
+  journals: [Journal of Feminist Studies in Religion, Biblical Interpretation, Black Theology, Journal of Africana Religions, Political Theology, Religion and Gender]
+  queries:
+    - 'Bible AND womanist'
+    - 'Bible AND postcolonial OR decolonial'
+    - 'Bible AND Indigenous AND conquest'
+    - 'Bible AND queer AND interpretation'
+    - 'Bible AND disability AND healing'
+    - 'Bible AND ecological hermeneutics'
+    - 'Paul AND race OR ethnicity'
+    - 'Hebrew Bible AND trauma'
