@@ -1,0 +1,242 @@
+# 15. Dialogue Summary Statistics
+
+- Dialogue nodes: **236**
+- Dialogue edges: **214**
+- Hot-topic traces: **15**
+- Recent article watchlist entries: **45**
+
+## Nodes by subfield
+
+- HB/Torah: 18
+- Pauline Studies: 18
+- Historical Jesus: 15
+- Rabbinics: 15
+- Gospels/Mark: 13
+- Revelation: 13
+- HB/Prophets: 11
+- NT Textual Criticism: 10
+- HB/Law: 9
+- Qur'an/Bible: 7
+- Second Temple Judaism: 7
+- Synoptic Problem: 7
+- John: 6
+- Qumran: 6
+- Archaeology/HB: 5
+- HB/Psalms: 5
+- Digital/HB: 4
+- Gospels: 4
+- HB/Former Prophets: 4
+- Luke-Acts: 4
+- Paul within Judaism: 4
+- Feminist NT: 3
+- HB Textual Criticism: 3
+- Textual Criticism/LXX: 3
+- Feminist HB: 2
+- HB/Poetry: 2
+- Synoptic Problem/Q: 2
+- Textual Criticism/HB: 2
+- Womanist HB: 2
+- Animal Studies/HB: 1
+- Christian Arabic: 1
+- Critical Methods: 1
+- Digital/Epigraphy: 1
+- Disability Studies: 1
+- Disability/Ecology/Rabbinics: 1
+- Disability/NT: 1
+- Feminist/materialist HB: 1
+- Global/Feminist Reception: 1
+- Global/Reception: 1
+- Gospels/Matthew: 1
+- HB/Exile: 1
+- HB/History: 1
+- HB/Kings: 1
+- HB/Narrative: 1
+- HB/Postexilic: 1
+- HB/Wisdom: 1
+- Historical Jesus/Gospels: 1
+- Jewish-Christian Hermeneutics: 1
+- Methods: 1
+- Pauline/Deutero-Pauline: 1
+- Pauline/Gospels: 1
+- Postcolonial: 1
+- Postcolonial/Feminist: 1
+- Postcolonial/Global: 1
+- Qumran/Manuscripts: 1
+- Qumran/Reception: 1
+- Qumran/Text: 1
+- Reception/Global: 1
+- Second Temple/Torah: 1
+- Textual Criticism: 1
+- Womanist NT: 1
+
+## Nodes by verification status
+
+- needs-page-verification: 163
+- web-verified: 59
+- needs-verification: 14
+
+## Edges by relation
+
+- extends: 74
+- revises: 13
+- reframes: 9
+- develops: 8
+- critiques: 7
+- parallel: 7
+- reorients: 7
+- responds: 6
+- synthesizes: 5
+- challenges: 4
+- parallel/develops: 3
+- revisits: 3
+- updates: 3
+- challenges/reframes: 2
+- contextualizes: 2
+- contrasts: 2
+- dialogues: 2
+- ethical corrective: 2
+- extends/revises: 2
+- historicizes: 2
+- intervenes: 2
+- radicalizes: 2
+- rejects: 2
+- retrospective: 2
+- broadens: 1
+- case study: 1
+- comparative direction: 1
+- critical balance: 1
+- critical parallel: 1
+- critiques/radicalizes: 1
+- critiques/reorients: 1
+- critiques/revises: 1
+- critiques/synthesizes: 1
+- cross-tradition dialogue: 1
+- explains/extends: 1
+- extends/critiques: 1
+- extends/decolonizes: 1
+- materialist extension: 1
+- methodological caution: 1
+- methodological counterpart: 1
+- methodological cousin: 1
+- methodological parallel: 1
+- methodological response: 1
+- moderates: 1
+- names/develops: 1
+- opposes/anticipates: 1
+- parallel/debate: 1
+- parallel/extends: 1
+- politicizes: 1
+- popularizes/extends: 1
+- postcolonializes: 1
+- qualifies: 1
+- re-dates/revises: 1
+- reassesses: 1
+- reopens: 1
+- responds/challenges: 1
+- responds/qualifies: 1
+- responds/reorients: 1
+- responds/revives: 1
+- retools: 1
+- retrospective/responds: 1
+- revives/reframes: 1
+- revives/revises: 1
+- social-historical extension: 1
+- standardizes: 1
+- state-of-question: 1
+- supplements/reframes: 1
+
+## High-confidence edges
+
+- `gunkel_1901` → `wellhausen_1878` (supplements/reframes): Adds form/oral-genre questions to documentary literary source division.
+- `vonrad_1938` → `gunkel_1901` (extends): Extends form-critical interests into cultic/tradition-historical reconstruction.
+- `noth_1948` → `wellhausen_1878` (revises): Shifts emphasis from full documents to tradition complexes and growth processes.
+- `rendtorff_1977` → `wellhausen_1878` (challenges): Questions coherence of large J/E/P/D documents.
+- `vanseters_1975` → `wellhausen_1878` (re-dates/revises): Rejects early Yahwist and patriarchal historicity assumptions.
+- `blum_1984` → `rendtorff_1977` (develops): Builds compositional-history model after critique of source documents.
+- `baden_2009` → `rendtorff_1977` (responds/revives): Restates a stricter neo-documentary method against anti-documentary critiques.
+- `carr_2011` → `wellhausen_1878` (historicizes): Places source/redaction debates within broader scribal transmission processes.
+- `nihan_2007` → `wellhausen_1878` (revises): Treats P as complex editorial/legal-theological project rather than simple source layer.
+- `stackert_2014` → `fishbane_1985` (extends): Uses inner-biblical interpretation to compare Deuteronomic, priestly, and prophetic traditions.
+- `zahn_2020` → `fishbane_1985` (extends): Uses Second Temple rewriting to illuminate biblical rewriting practices.
+- `weinfeld_1970` → `mendenhall_1954` (revises): Differentiates royal grant from suzerainty treaty models.
+- `levinson_1997` → `fishbane_1985` (extends): Makes Deuteronomy a major test case for legal revision and innovation.
+- `cross_1973` → `noth_1943` (revises): Proposes Josianic and exilic double redaction rather than one exilic work.
+- `nelson_1981` → `cross_1973` (develops): Full monograph development of double-redaction model.
+- `roemer_2005` → `noth_1943` (reassesses): Synthesizes European debates and plural redactional growth.
+- `gottwald_1979` → `mendenhall_1954` (radicalizes): Turns conquest/settlement toward social-revolution model.
+- `dever_2003` → `finkelstein_2001` (responds): Defends more positive archaeological reconstruction against minimalist tendencies.
+- `seitz_1991` → `duhm_1892` (challenges/reframes): Canonical/literary Isaiah challenges fragmentation as sole interpretive lens.
+- `mowinckel_1962` → `gunkel_psalms_1926` (extends): Places Gunkel's genres in Israelite worship contexts.
+- `kugel_1981` → `gunkel_psalms_1926` (reorients): Questions simple parallelism categories and refines poetics.
+- `strauss_1835` → `reimarus_1778` (radicalizes): Turns Jesus/church distinction into myth-critical Gospel analysis.
+- `schweitzer_1906` → `strauss_1835` (critiques/synthesizes): Critiques liberal lives and centers eschatology/apocalypticism.
+- `bultmann_1921` → `schweitzer_1906` (reframes): Moves from life of Jesus to form history of tradition units.
+- `kasemann_1954` → `bultmann_1921` (responds): Reopens quest while accepting form-critical problems.
+- `sanders_1985` → `kasemann_1954` (reorients): Moves toward Jewish restoration, Temple action, and secure historical facts.
+- `crossan_1991` → `sanders_1985` (contrasts): Contrasts apocalyptic/restoration Jesus with sapiential/social-revolution model.
+- `meier_1991` → `sanders_1985` (parallel/develops): Builds criteria-based reconstruction in relation to Jewish-context turn.
+- `wright_1996` → `sanders_1985` (extends/revises): Places Jesus in exile/restoration symbolic worldview.
+- `allison_2010` → `meier_1991` (critiques/revises): Moves beyond atomistic criteria toward memory and recurring patterns.
+- `keith_ledonne_2012` → `meier_1991` (critiques): Programmatic critique of authenticity criteria.
+- `jshj_special_2025` → `bermejo_2023` (responds): Special issue gathers direct and indirect responses to Bermejo-Rubio.
+- `farrer_1955` → `streeter_1924` (rejects): Rejects Q by positing Luke's use of Matthew.
+- `farmer_1964` → `streeter_1924` (rejects): Defends Two-Gospel/Griesbach against two-source theory.
+- `sanders_1969` → `streeter_1924` (qualifies): Challenges simple assumptions about tendencies in synoptic tradition.
+- `goulder_1989` → `farrer_1955` (develops): Develops Farrer hypothesis in detail for Luke.
+- `kloppenborg_1987` → `streeter_1924` (develops): Provides stratified literary history of Q.
+- `goodacre_2002` → `kloppenborg_1987` (challenges): Major critique of Q and defense of Farrer.
+- `kelber_1983` → `bultmann_1921` (reframes): Moves form criticism into oral/written media theory.
+- `may_1993` → `malbon_1985` (responds): Directly questions whether house is Jesus's or Levi's.
+- `malbon_2026` → `malbon_1985` (retrospective): Revisits original article in wider context.
+- `may_2026` → `may_1993` (retrospective): Revisits his response to Malbon.
+- `alow_2026` → `malbon_1985` (revisits): Reassesses referent of αὐτοῦ and syntax/context.
+- `alow_2026` → `may_1993` (revisits): Reopens May's counterargument with current analysis.
+- `burridge_1992` → `bultmann_1921` (reframes): Shifts from form history to bios genre analysis.
+- `wilson_vandeweghe_2026` → `gregor_blais_2024` (responds): Re-examines statistical evidence in a recent JSNT exchange.
+- `stendahl_1963` → `bultmann_theology_1951` (critiques): Critiques introspective Western/Lutheran Paul.
+- `sanders_1977_paul` → `stendahl_1963` (extends): Creates covenantal-nomism baseline for reevaluating Paul and Judaism.
+- `dunn_1983` → `sanders_1977_paul` (names/develops): Coins/develops New Perspective, focusing on works of law as boundary markers.
+- `hays_1983` → `sanders_1977_paul` (intervenes): Early major pistis/intertext article in post-Sanders environment.
+- `hays_1989` → `hays_1983` (develops): Broadens scriptural-echo method across Paul.
+- `martyn_1985` → `kasemann_1969_paul` (develops): Builds apocalyptic antinomy reading of Galatians.
+- `barclay_1987` → `martyn_1985` (methodological caution): Warns against overconfident mirror-reading of polemical letters.
+- `nanos_1996` → `dunn_1983` (reorients): Reads Romans within Jewish communal settings rather than post-Jewish Christianity.
+- `fredriksen_2017` → `sanders_1977_paul` (extends): Paul as Jewish apostle to gentiles, eschatological pagan inclusion.
+- `barclay_2015` → `sanders_1977_paul` (revises): Reframes grace debate through ancient gift discourse.
+- `martyn_john_1968` → `bultmann_john_1941` (revises): Two-level drama after Bultmannian source/revelation model.
+- `meeks_1972` → `martyn_john_1968` (extends): Sectarian social model of Johannine Christology.
+- `brown_john_1979` → `martyn_john_1968` (develops): Full community history reconstruction.
+- `sfiorenza_1985_revelation` → `collins_revelation_1984` (responds/reorients): Feminist/liberation frame after socio-literary crisis model.
+- `pippin_1992` → `sfiorenza_1985_revelation` (critiques/radicalizes): Postmodern feminist critique of Revelation's violent desire.
+- `friesen_2001` → `collins_revelation_1984` (contextualizes): Imperial cult as contextual frame for Revelation.
+- `colwell_1969` → `westcott_hort_1881` (revises): Empirical scribal habits complicate genealogical method.
+- `metzger_1968` → `westcott_hort_1881` (standardizes): Manualizes external/internal criteria after Hortian tradition.
+- `epp_1974` → `metzger_1968` (critiques): Names disciplinary interlude and pushes methodological reassessment.
+- `ehrman_1993` → `metzger_1968` (extends): Uses variants to reconstruct theological/social conflict.
+- `parker_1997` → `westcott_hort_1881` (challenges): Textual plurality challenges singular stemmatic original-text assumptions.
+- `epp_1999` → `westcott_hort_1881` (critiques): Problematises 'original text' as multivalent goal.
+- `royse_2008` → `colwell_1969` (extends): Large papyri study refines assumptions about scribal tendencies.
+- `mink_2009` → `westcott_hort_1881` (retools): CBGM retools genealogical analysis through coherence and computational data.
+- `wasserman_gurry_2017` → `mink_2009` (explains/extends): Introduces CBGM to broader field and debates ECM method.
+- `tov_1992` → `cross_dss_1958` (synthesizes): Standardizes DSS-informed Hebrew Bible text-critical method.
+- `ulrich_1999` → `cross_dss_1958` (extends): Argues DSS reveal pluriform biblical editions.
+- `press_2025` → `cross_dss_1958` (ethical corrective): Current full history of fake DSS artifacts complicates manuscript evidence and provenance.
+- `vanderkam_1984` → `schurer_1886` (extends): Moves historical synthesis toward Enoch/apocalyptic tradition history.
+- `nickelsburg_2001` → `vanderkam_1984` (develops): Critical commentary deepens Enoch tradition analysis.
+- `collins_1998` → `vanderkam_1984` (synthesizes): Standard synthesis of Jewish apocalyptic literature.
+- `newsom_2004` → `boccaccini_1998` (reframes): Uses discourse/identity formation rather than origin taxonomy alone.
+- `halivni_1986` → `neusner_1973` (revises): Stammaitic redaction theory modifies earlier tradition-history models.
+- `boyarin_1990` → `halivni_1986` (reframes): Literary/intertextual turn alongside redactional analysis.
+- `rubenstein_1999` → `halivni_1986` (extends): Narrative/literary readings integrate redactional theory.
+- `vidas_2014` → `halivni_1986` (revises): Authority/tradition and redactional formation of Bavli.
+- `weems_1995` → `trible_1984` (extends/critiques): Womanist critique extends feminist terror-text readings through race/gender lenses.
+- `dube_2000` → `sfiorenza_1983` (postcolonializes): Adds coloniality, empire, and global location to feminist biblical interpretation.
+- `segovia_2000` → `dube_2000` (parallel/develops): Programmatic decolonizing biblical studies overlaps postcolonial feminist work.
+- `sugirtharajah_2001` → `segovia_2000` (extends): Maps Bible and imperial/third-world reception history.
+- `dube_2024` → `dube_2000` (updates): Current article turns postcolonial feminist method toward global translated Bibles and pedagogy.
+- `thiede_2024` → `trible_1984` (updates): Current methodological intervention updates terror-text/sexual-violence work as rape-culture critique.
+- `speyer_1931` → `geiger_1833` (extends): Expands Jewish-source comparison into inventory of biblical narratives.
+- `wansbrough_1977` → `speyer_1931` (challenges/reframes): Revisionist literary/sectarian model challenges simple source-dependence accounts.
+- `neuwirth_2010` → `wansbrough_1977` (revises): Reframes Qur'an as late antique text without Wansbrough's full revisionism.
+- `reynolds_2010` → `speyer_1931` (revises): Moves from source hunting toward conversation with biblical/exegetical traditions.
+- `murray_2026` → `chan_2026` (parallel): Luke-Acts social multilingualism and Acts 2 tongues belong in the same language-turn cluster.

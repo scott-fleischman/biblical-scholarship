@@ -1,0 +1,215 @@
+source_node,target_node,relation,topic,claim_delta,confidence
+gunkel_1901,wellhausen_1878,supplements/reframes,Pentateuch sources,Adds form/oral-genre questions to documentary literary source division.,high
+vonrad_1938,gunkel_1901,extends,Pentateuch tradition history,Extends form-critical interests into cultic/tradition-historical reconstruction.,high
+noth_1948,wellhausen_1878,revises,Pentateuch sources,Shifts emphasis from full documents to tradition complexes and growth processes.,high
+rendtorff_1977,wellhausen_1878,challenges,Pentateuch sources,Questions coherence of large J/E/P/D documents.,high
+vanseters_1975,wellhausen_1878,re-dates/revises,Pentateuch sources,Rejects early Yahwist and patriarchal historicity assumptions.,high
+blum_1984,rendtorff_1977,develops,Pentateuch composition,Builds compositional-history model after critique of source documents.,high
+whybray_1987,wellhausen_1878,critiques,Pentateuch sources,Offers sweeping skeptical review of source analysis.,medium
+baden_2009,rendtorff_1977,responds/revives,Pentateuch sources,Restates a stricter neo-documentary method against anti-documentary critiques.,high
+carr_2011,wellhausen_1878,historicizes,Pentateuch formation,Places source/redaction debates within broader scribal transmission processes.,high
+schmid_2012,blum_1984,synthesizes,Pentateuch composition,European literary-historical synthesis of formation models.,medium
+nihan_2007,wellhausen_1878,revises,Priestly literature,Treats P as complex editorial/legal-theological project rather than simple source layer.,high
+stackert_2014,fishbane_1985,extends,Inner-biblical legal interpretation,"Uses inner-biblical interpretation to compare Deuteronomic, priestly, and prophetic traditions.",high
+milstein_2016,carr_2011,extends,Scribal revision,Uses scribal mechanics and doublets to refine formation models.,medium
+zahn_2020,fishbane_1985,extends,Rewritten scripture,Uses Second Temple rewriting to illuminate biblical rewriting practices.,high
+dayfani_2025,nihan_2007,intervenes,Priestly literature,Reopens P via materialist foundation and Genesis stratum.,medium
+zhang_2026,fishbane_1985,extends,Inner-biblical allusion,Reads Genesis flood/Sinai correspondences as allusive literary work.,medium
+yu_2026,carr_2011,extends,Cultural memory,Connects Deuteronomy formation to cultural-memory approaches.,medium
+weinfeld_1970,mendenhall_1954,revises,Covenant forms,Differentiates royal grant from suzerainty treaty models.,high
+fishbane_1985,weinfeld_1970,broadens,Inner-biblical exegesis,Moves from treaty comparison toward scriptural interpretation within the Bible.,medium
+levinson_1997,fishbane_1985,extends,Legal hermeneutics,Makes Deuteronomy a major test case for legal revision and innovation.,high
+barmash_2005,westbrook_1988,extends,Comparative law,Applies comparative legal method to biblical homicide law.,medium
+hocking_kline_2025,levinson_1997,extends,Deuteronomic law,Recent legal/ecological issue in Deut 20 debates.,low
+magori_2026,westbrook_1988,extends,Covenant Code,Current property-law article continues comparative legal study.,medium
+chavel_2025,wellhausen_1878,reorients,Genesis 10; race,Moves classic ethnological readings into race/ethnicity critique.,medium
+segal_2025,fishbane_1985,extends,Deut/Josh intertext,Recent law-narrative textual dynamics test case.,medium
+cross_1973,noth_1943,revises,Deuteronomistic History,Proposes Josianic and exilic double redaction rather than one exilic work.,high
+nelson_1981,cross_1973,develops,Deuteronomistic History,Full monograph development of double-redaction model.,high
+roemer_2005,noth_1943,reassesses,Deuteronomistic History,Synthesizes European debates and plural redactional growth.,high
+knoppers_1993,cross_1973,extends,Kings/monarchy,Analyzes monarchy theology and history within DtrH debate.,medium
+gottwald_1979,mendenhall_1954,radicalizes,Israelite origins,Turns conquest/settlement toward social-revolution model.,high
+dever_2003,finkelstein_2001,responds,Archaeology/history,Defends more positive archaeological reconstruction against minimalist tendencies.,high
+mazar_2005,finkelstein_2001,moderates,Iron Age chronology,Offers balanced/modified chronology debate.,medium
+faust_2006,gottwald_1979,revises,Ethnogenesis,Uses material culture to reconstruct identity formation rather than a single peasant revolt.,medium
+rouse_2024,dever_2003,extends,Mt. Ebal/settlement,Reenters settlement archaeology/textual discussion through Ebal altar.,medium
+scott_2026,roemer_2005,extends,Persian period,Brings Persian imperial-administration questions into postexilic textual reading.,medium
+seitz_1991,duhm_1892,challenges/reframes,Isaiah composition,Canonical/literary Isaiah challenges fragmentation as sole interpretive lens.,high
+sweeney_1996,duhm_1892,revises,Isaiah composition,Combines form-critical and literary structure work after tri-Isaiah model.,medium
+ben_zvi_2026,seitz_1991,extends,Isaiah/social memory,Current Isaiah article adds social memory and authoritative-text theory.,medium
+vandyke_2024,duhm_1892,reorients,Isaiah scribal materiality,Moves from compositional strata to material scribal practice.,medium
+sherman_2026,sweeney_1996,extends,Isaiah animals/divination,Current oracular-animal reading of prophetic imagery.,low
+stulman_1986,tov_jeremiah_1985,dialogues,Jeremiah MT/LXX,Connects prose/redaction issues with textual history.,medium
+oconnor_2011,stulman_1986,reframes,Jeremiah trauma,"Moves Jeremiah interpretation toward trauma, pain, and theological reception.",medium
+rossi_2025,tov_jeremiah_1985,extends,Jeremiah MT/LXX,Recent MT/LXX article revisits textual/redactional relation.,medium
+deans_2025,nissinen_2000,extends,Amos/social setting,Current social-location work on Amos in broader comparative prophecy/social context.,low
+lemos_2025,oconnor_2011,extends,Exile/trauma,"Expands trauma to filth, dehumanization, and rehumanization after exile.",medium
+lasine_2026,fishbane_1985,extends,Jonah/Cain intertext,Current intertextual narrative reading of Jonah through Cain traditions.,low
+mowinckel_1962,gunkel_psalms_1926,extends,Psalms form/cult,Places Gunkel's genres in Israelite worship contexts.,high
+kugel_1981,gunkel_psalms_1926,reorients,Biblical poetry,Questions simple parallelism categories and refines poetics.,high
+alter_1985,kugel_1981,extends,Biblical poetry,Literary poetics builds from and revises parallelism analysis.,medium
+brueggemann_1984,mowinckel_1962,reframes,Psalms theology,Turns genre/cult into theological movement of orientation/disorientation.,medium
+perez_gondar_2025,kugel_1981,extends,Psalm 22 intertext,Current dialogic/intertextual reading after poetics/intertext turns.,low
+creach_2026,mowinckel_1962,extends,Psalm 104 creation,Current creation/theophany interpretation in psalm scholarship.,low
+jones_2025,westbrook_1988,extends,Wisdom comparanda,Uses Egyptian Khety as comparative background to Qohelet.,low
+qin_yan_2025,dube_2024,extends,Global reception,Sinicized feminist translation as concrete global Bible reception case.,medium
+strauss_1835,reimarus_1778,radicalizes,Historical Jesus,Turns Jesus/church distinction into myth-critical Gospel analysis.,high
+schweitzer_1906,strauss_1835,critiques/synthesizes,Historical Jesus,Critiques liberal lives and centers eschatology/apocalypticism.,high
+bultmann_1921,schweitzer_1906,reframes,Synoptic tradition,Moves from life of Jesus to form history of tradition units.,high
+kasemann_1954,bultmann_1921,responds,Historical Jesus,Reopens quest while accepting form-critical problems.,high
+sanders_1985,kasemann_1954,reorients,Historical Jesus,"Moves toward Jewish restoration, Temple action, and secure historical facts.",high
+crossan_1991,sanders_1985,contrasts,Historical Jesus,Contrasts apocalyptic/restoration Jesus with sapiential/social-revolution model.,high
+meier_1991,sanders_1985,parallel/develops,Historical Jesus,Builds criteria-based reconstruction in relation to Jewish-context turn.,high
+wright_1996,sanders_1985,extends/revises,Historical Jesus,Places Jesus in exile/restoration symbolic worldview.,high
+allison_2010,meier_1991,critiques/revises,Historical Jesus method,Moves beyond atomistic criteria toward memory and recurring patterns.,high
+keith_ledonne_2012,meier_1991,critiques,Historical Jesus method,Programmatic critique of authenticity criteria.,high
+bermejo_2023,schweitzer_1906,revives/revises,Insurgent Jesus,Revives anti-Roman/apocalyptic/political Jesus trajectory.,medium
+jshj_special_2025,bermejo_2023,responds,Insurgent Jesus,Special issue gathers direct and indirect responses to Bermejo-Rubio.,high
+middleton_2025,bermejo_2023,critiques,Insurgent Jesus,Questions how much history the Gospels can bear for insurgent reconstruction.,medium
+worthington_2025,bermejo_2023,methodological response,Insurgent Jesus,Uses decolonial approaches and critiques strict secular historiography.,medium
+crossley_2025,bermejo_2023,historicizes,Insurgent Jesus,Traces past/present/future of insurgent Jesus idea.,medium
+myles_2026,schweitzer_1906,reorients,Jesus class/materiality,Class/costume reading shifts from apocalyptic to material rhetoric.,medium
+farrer_1955,streeter_1924,rejects,Synoptic Problem,Rejects Q by positing Luke's use of Matthew.,high
+farmer_1964,streeter_1924,rejects,Synoptic Problem,Defends Two-Gospel/Griesbach against two-source theory.,high
+sanders_1969,streeter_1924,qualifies,Synoptic Problem,Challenges simple assumptions about tendencies in synoptic tradition.,high
+goulder_1989,farrer_1955,develops,Synoptic Problem,Develops Farrer hypothesis in detail for Luke.,high
+kloppenborg_1987,streeter_1924,develops,Q,Provides stratified literary history of Q.,high
+goodacre_2002,kloppenborg_1987,challenges,Q/Farrer,Major critique of Q and defense of Farrer.,high
+tuckett_1996,goodacre_2002,opposes/anticipates,Q,Defends Q and its role in early Christian history.,medium
+duncanson_2025,goodacre_2002,reopens,Q/Farrer,Recent article seed for updated Q/Farrer debate.,low
+kelber_1983,bultmann_1921,reframes,Orality/Mark,Moves form criticism into oral/written media theory.,high
+rhoads_dewey_michie_1982,wrede_1901,reframes,Mark narrative,Moves from secrecy source/theology to narrative-critical reading.,medium
+myers_1988,wrede_1901,politicizes,Mark/empire,Reads Mark as political/apocalyptic resistance narrative.,medium
+may_1993,malbon_1985,responds,Mark 2.15 house,Directly questions whether house is Jesus's or Levi's.,high
+malbon_2026,malbon_1985,retrospective,Mark 2.15 house,Revisits original article in wider context.,high
+may_2026,may_1993,retrospective,Mark 2.15 house,Revisits his response to Malbon.,high
+alow_2026,malbon_1985,revisits,Mark 2.15 house,Reassesses referent of αὐτοῦ and syntax/context.,high
+alow_2026,may_1993,revisits,Mark 2.15 house,Reopens May's counterargument with current analysis.,high
+doole_2026,malbon_1985,revisits,Mark 2.15 house,Reconsiders Jesus's house option.,medium
+douglas_2026,malbon_1985,extends,Mark houses/gender,Expands house question into gendered dinner scenes.,medium
+glaser_2026,malbon_1985,extends,Mark meals/mission,Expands house/table question into Jewish mission contexts.,medium
+burridge_1992,bultmann_1921,reframes,Gospel genre,Shifts from form history to bios genre analysis.,high
+bauckham_1998,brown_john_1979,challenges,Gospel audiences,Challenges community-specific Gospel reconstructions.,medium
+gregor_blais_2024,bauckham_1998,responds/challenges,Gospel audiences,Recent counterargument against Bauckham's audience thesis.,medium
+wilson_vandeweghe_2026,gregor_blais_2024,responds,Mark/2 Thess intertext,Re-examines statistical evidence in a recent JSNT exchange.,high
+delgado_2026,myers_1988,extends,Mark/empire,Current rhetorical analysis of Caesar image/inscription continues empire reading.,medium
+genter_2026,wrede_1901,extends/revises,Messianic Secret,Applies/reevaluates secrecy motif in Matthew.,medium
+murray_2026,kelber_1983,extends,Luke-Acts language/social location,Multilingualism as social-location model for Luke-Acts.,medium
+chan_2026,murray_2026,parallel,Acts multilingualism,Ancient conceptions of tongues complement multilingualism work.,medium
+kochenash_2024,burridge_1992,extends,Luke historiography,Census/Josephus article sits in Gospel historiography/narrative strategy debate.,low
+bruehler_2026,allison_2010,extends,Emotion/Christology,Affect/emotion turn builds on embodied/memory-sensitive Gospel readings.,low
+stendahl_1963,bultmann_theology_1951,critiques,Paul/justification,Critiques introspective Western/Lutheran Paul.,high
+sanders_1977_paul,stendahl_1963,extends,New Perspective,Creates covenantal-nomism baseline for reevaluating Paul and Judaism.,high
+dunn_1983,sanders_1977_paul,names/develops,New Perspective,"Coins/develops New Perspective, focusing on works of law as boundary markers.",high
+wright_1997_paul,dunn_1983,extends,New Perspective,Covenant and ecclesiology-focused popular/theological synthesis.,medium
+hays_1983,sanders_1977_paul,intervenes,Pistis Christou,Early major pistis/intertext article in post-Sanders environment.,high
+hays_1989,hays_1983,develops,Paul and Scripture,Broadens scriptural-echo method across Paul.,high
+martyn_1985,kasemann_1969_paul,develops,Apocalyptic Paul,Builds apocalyptic antinomy reading of Galatians.,high
+barclay_1987,martyn_1985,methodological caution,Galatians opponents,Warns against overconfident mirror-reading of polemical letters.,high
+nanos_1996,dunn_1983,reorients,Paul within Judaism,Reads Romans within Jewish communal settings rather than post-Jewish Christianity.,high
+eisenbaum_2009,nanos_1996,popularizes/extends,Paul within Judaism,Frames Paul explicitly as non-Christian Jewish figure.,medium
+fredriksen_2017,sanders_1977_paul,extends,Paul within Judaism,"Paul as Jewish apostle to gentiles, eschatological pagan inclusion.",high
+barclay_2015,sanders_1977_paul,revises,Grace/gift,Reframes grace debate through ancient gift discourse.,high
+gaventa_2016,martyn_1985,extends,Apocalyptic Romans,Apocalyptic reading moves into Romans synthesis.,medium
+novenson_2017,hays_1989,extends,Messianism,Refines Paul’s Christ-language through Jewish messianism.,medium
+glancy_2002,stendahl_1963,reorients,Paul/social body,Social history of slavery/body as necessary context for Pauline ethics.,medium
+last_2025,fredriksen_2017,state-of-question,Paul within Judaism,Current social-history/state-of-question node for early Judaism approach.,low
+gathercole_2025,wilson_vandeweghe_2026,parallel/debate,Parousia/2 Thessalonians,Recent parousia chronology and Mark/2 Thess intertext debates overlap.,low
+hannah_2025,gathercole_2025,responds/qualifies,Parousia,Corrective to misconceptions about Pauline parousia teaching.,low
+akagi_2026,dunn_1983,extends,Ephesians sociology,Sociological/exegetical reading of household/family language in Ephesians.,medium
+martyn_john_1968,bultmann_john_1941,revises,John community,Two-level drama after Bultmannian source/revelation model.,high
+meeks_1972,martyn_john_1968,extends,Johannine community,Sectarian social model of Johannine Christology.,high
+brown_john_1979,martyn_john_1968,develops,Johannine community,Full community history reconstruction.,high
+reinhartz_1998,brown_john_1979,reframes,John narrative/ethics,Questions/reshapes community-narrative assumptions through literary lens.,medium
+seglenieks_2025,bauckham_1998,responds,John audience,Recent seed in Gospel audience/social identity debate.,low
+sfiorenza_1985_revelation,collins_revelation_1984,responds/reorients,Revelation,Feminist/liberation frame after socio-literary crisis model.,high
+pippin_1992,sfiorenza_1985_revelation,critiques/radicalizes,Revelation/gender,Postmodern feminist critique of Revelation's violent desire.,high
+friesen_2001,collins_revelation_1984,contextualizes,Revelation/empire,Imperial cult as contextual frame for Revelation.,high
+koester_2014,friesen_2001,synthesizes,Revelation,"Commentary synthesis of literary, historical, and imperial approaches.",medium
+hidalgo_2016,sfiorenza_1985_revelation,extends/decolonizes,Revelation,Race/coloniality and Chicana/o reception reshape Revelation interpretation.,medium
+jsnt_rev_intro_2025,pippin_1992,revives/reframes,Revelation/gender/violence,"Current special issue reopens gender, violence, empire conversation.",medium
+hidalgo_2025,hidalgo_2016,extends,Revelation/decoloniality,Continues decolonial Revelation trajectory.,medium
+thomas_2025,pippin_1992,extends,Revelation/sexual violence,Current sexual-violence/imperial fantasy contribution.,low
+huber_2025,pippin_1992,extends,Revelation/visuality,Embodiment and visuality in gendered Revelation reading.,low
+pippin_response_2025,pippin_1992,retrospective/responds,Revelation/feminist critique,Senior scholar response links new essays to earlier feminist critique.,medium
+mcclain_2026,friesen_2001,extends,Revelation/urbanism,New Jerusalem read through Greco-Roman city founding/material context.,medium
+colwell_1969,westcott_hort_1881,revises,NT text criticism,Empirical scribal habits complicate genealogical method.,high
+metzger_1968,westcott_hort_1881,standardizes,NT text criticism,Manualizes external/internal criteria after Hortian tradition.,high
+epp_1974,metzger_1968,critiques,NT text criticism history,Names disciplinary interlude and pushes methodological reassessment.,high
+ehrman_1993,metzger_1968,extends,Variants and theology,Uses variants to reconstruct theological/social conflict.,high
+parker_1997,westcott_hort_1881,challenges,Living text,Textual plurality challenges singular stemmatic original-text assumptions.,high
+epp_1999,westcott_hort_1881,critiques,Original text,Problematises 'original text' as multivalent goal.,high
+royse_2008,colwell_1969,extends,Scribal habits,Large papyri study refines assumptions about scribal tendencies.,high
+mink_2009,westcott_hort_1881,retools,Genealogical method,CBGM retools genealogical analysis through coherence and computational data.,high
+wasserman_gurry_2017,mink_2009,explains/extends,CBGM,Introduces CBGM to broader field and debates ECM method.,high
+allen_2025,colwell_1969,critiques/reorients,Palaeography,Recent critique of objectivist palaeographic dating and shape judgments.,medium
+tov_1992,cross_dss_1958,synthesizes,HB text criticism,Standardizes DSS-informed Hebrew Bible text-critical method.,high
+ulrich_1999,cross_dss_1958,extends,DSS pluriformity,Argues DSS reveal pluriform biblical editions.,high
+talmon_1975,cross_dss_1958,extends,Textual plurality,Models textual plurality and textual families/groups.,medium
+gallagher_2024,ulrich_1999,extends,LXX/canon,Recent canon/LXX article in light of textual pluriformity.,medium
+catalano_2025,tov_1992,extends,LXX textual development,Uses Hosea LXX alternatives as snapshots of textual development.,medium
+garcia_alayon_2026,catalano_2025,parallel/extends,LXX Genesis,Current Genesis 1 LXX delimitation article.,medium
+press_2025,cross_dss_1958,ethical corrective,DSS forgeries,Current full history of fake DSS artifacts complicates manuscript evidence and provenance.,high
+press_2025,ulrich_1999,ethical corrective,DSS provenance,DSS pluriformity research now must be paired with provenance/forgery controls.,medium
+vanderkam_1984,schurer_1886,extends,Second Temple history,Moves historical synthesis toward Enoch/apocalyptic tradition history.,high
+nickelsburg_2001,vanderkam_1984,develops,1 Enoch,Critical commentary deepens Enoch tradition analysis.,high
+collins_1998,vanderkam_1984,synthesizes,Apocalypticism,Standard synthesis of Jewish apocalyptic literature.,high
+stone_1990,collins_1998,parallel/develops,4 Ezra/apocalyptic,Major commentary evidence for post-70 apocalyptic trajectories.,medium
+boccaccini_1998,schiffman_1994,contrasts,Qumran origins,Enochic Judaism model contrasts legal/halakhic Essene models.,medium
+newsom_2004,boccaccini_1998,reframes,Qumran identity,Uses discourse/identity formation rather than origin taxonomy alone.,high
+dimant_2014,newsom_2004,extends,DSS interpretation,"Adds history, ideology, and Bible interpretation to identity models.",medium
+tigchelaar_2007,boccaccini_1998,critiques,DSS classification,Questions corpus categories and classification practices.,medium
+goff_2013,collins_1998,extends,Qumran wisdom/apocalyptic,Shows wisdom and apocalyptic overlap in 4QInstruction.,medium
+stuckenbruck_2017,vanderkam_1984,extends,Watchers/evil,Reassesses Watchers myth and evil traditions.,medium
+kosmin_2024,vanderkam_1984,extends,Enoch/time,Current Enoch/time and Hellenistic chronography article.,medium
+hughes_huff_2024,press_2025,parallel,DSS public reception/provenance,Public-media Scrolls reception intersects with forgery/provenance concerns.,medium
+neusner_1973,strack_stemberger_1982,methodological counterpart,Rabbinics,Source-critical tradition history versus reference-introduction infrastructure.,medium
+halivni_1986,neusner_1973,revises,Talmud redaction,Stammaitic redaction theory modifies earlier tradition-history models.,high
+boyarin_1990,halivni_1986,reframes,Midrash/intertextuality,Literary/intertextual turn alongside redactional analysis.,high
+fraade_1991,boyarin_1990,extends,Rabbinic commentary,Pedagogy/commentary as rabbinic interpretive practice.,medium
+hayes_1997,halivni_1986,extends,Talmud comparison,Compares Bavli and Yerushalmi legal reasoning and redaction.,medium
+hezser_2001,fraade_1991,social-historical extension,Literacy,Places rabbinic textuality in social-historical literacy context.,medium
+rubenstein_1999,halivni_1986,extends,Bavli narrative,Narrative/literary readings integrate redactional theory.,high
+kalmin_2006,rubenstein_1999,contextualizes,Bavli context,Places Bavli traditions in Persian/Roman geographic networks.,medium
+berkowitz_2006,hayes_1997,extends,Rabbinic law,Rabbinic law in Roman legal/cultural context.,medium
+vidas_2014,halivni_1986,revises,Talmud formation,Authority/tradition and redactional formation of Bavli.,high
+balberg_2017,berkowitz_2006,extends,Rabbinic ritual/law,Cognitive and ritual analysis of sacrifice after Temple.,medium
+rosenzvi_2012,boyarin_1990,extends,Rabbinic anthropology,Desire/anthropology after literary-cultural rabbinics.,medium
+koren_2025,boyarin_1990,extends,Rabbinic law as literature,Recent article seed in literary rabbinic law discussion.,low
+schwartz_dei_verbum_2026,fraade_1991,cross-tradition dialogue,Jewish/Catholic hermeneutics,Current Jewish reading of Catholic historical-critical hermeneutics.,medium
+weems_1995,trible_1984,extends/critiques,Sexual violence; womanist interpretation,Womanist critique extends feminist terror-text readings through race/gender lenses.,high
+yee_2003,trible_1984,materialist extension,Feminist HB,Adds ideology/materialist analysis to feminist close reading.,medium
+sfiorenza_1983,stendahl_1963,critical parallel,Feminist NT,Reconstructs early Christian women against androcentric historical models.,medium
+dube_2000,sfiorenza_1983,postcolonializes,Postcolonial feminist interpretation,"Adds coloniality, empire, and global location to feminist biblical interpretation.",high
+segovia_2000,dube_2000,parallel/develops,Decolonial method,Programmatic decolonizing biblical studies overlaps postcolonial feminist work.,high
+sugirtharajah_2001,segovia_2000,extends,Global biblical studies,Maps Bible and imperial/third-world reception history.,high
+gafney_2017,weems_1995,extends,Womanist HB,Develops womanist exegetical/midrashic method.,medium
+smith_junior_2018,weems_1995,extends,Womanist NT,Contemporary womanist biblical-interpretation collection.,medium
+dube_2024,dube_2000,updates,Global translated Bibles,Current article turns postcolonial feminist method toward global translated Bibles and pedagogy.,high
+thiede_2024,trible_1984,updates,Rape culture,Current methodological intervention updates terror-text/sexual-violence work as rape-culture critique.,high
+dempsey_2026,dube_2024,methodological parallel,Hermeneutics/materiality,Moves beyond text-fetishism in line with global/material interpretive shifts.,medium
+qin_yan_global_2025,dube_2024,case study,Global feminist reception,Sinicized feminist translation as concrete global translated Bible case.,medium
+belser_2015,schipper_2006,extends,Disability/ecology,"Connects disability, ecology, and Jewish late antique ethics.",medium
+millar_2024,belser_2015,extends,Animal/ecological turn,Current animal/human labor work contributes to ecological/animal studies.,medium
+portier_young_2024,trible_1984,extends,Embodiment/gender,Miriam embodied prophecy extends feminist embodiment work.,medium
+beavis_2026,sfiorenza_1983,extends,Female agency in Acts,Current Acts article continues early Christian women/agency research.,medium
+douglas_2026_gender,sfiorenza_1983,extends,Gender/meal scenes,Gendered dinner-scene analysis in Mark extends feminist NT interpretation.,medium
+speyer_1931,geiger_1833,extends,Qur'an/Bible,Expands Jewish-source comparison into inventory of biblical narratives.,high
+wansbrough_1977,speyer_1931,challenges/reframes,Qur'an formation,Revisionist literary/sectarian model challenges simple source-dependence accounts.,high
+neuwirth_2010,wansbrough_1977,revises,Late antiquity,Reframes Qur'an as late antique text without Wansbrough's full revisionism.,high
+reynolds_2010,speyer_1931,revises,Biblical subtext,Moves from source hunting toward conversation with biblical/exegetical traditions.,high
+griffith_2013,neuwirth_2010,extends,Arabic Bible/late antiquity,Christian Arabic and Bible translation as part of Islamicate scriptural environment.,medium
+pregill_2020,reynolds_2010,extends,Bible-Qur'an reception,"Golden Calf as deep genealogy across Bible, exegesis, Qur'an, and Islamicate reception.",medium
+sinai_2017,neuwirth_2010,synthesizes,Qur'an historical criticism,Historical-critical synthesis in late antique frame.,medium
+koppel_2011,radday_shore_1985,updates,Computational source criticism,Modern unsupervised decomposition after early statistical authorship studies.,medium
+faigenbaum_golovin_2016,colwell_1969,methodological cousin,Digital paleography,Algorithmic handwriting analysis gives computational counterpart to scribal-habits/paleography debates.,medium
+allen_2025,faigenbaum_golovin_2016,critical balance,Digital paleography,Subjectivity critique guards against over-objectifying shape analysis.,medium
+yoffe_2023,koppel_2011,extends,Computational source criticism,Recent computational-source-criticism seed tracks source models algorithmically.,low
+smiley_2025,zhang_2026,parallel,Computational allusion,Computational parallel detection intersects with literary allusion work.,low
+smiley_2025,fishbane_1985,extends,Inner-biblical allusion,Digital methods applied to inner-biblical exegesis/allusion search.,low
+dube_2024,dempsey_2026,dialogues,Hermeneutics,Global translated Bibles and anti-text-fetishism both decentralize the single printed text.,medium
+thiede_2024,lemos_2025,parallel,Violence/embodiment,Rape-culture and dehumanization/filth work are part of embodied harm studies.,medium
+millar_2024,sherman_2026,parallel,Animal studies,Animal labor and oracular owls mark current animal turn in HB studies.,medium
+murray_2026,chan_2026,parallel,Multilingualism,Luke-Acts social multilingualism and Acts 2 tongues belong in the same language-turn cluster.,high
+chavel_2025,myles_2026,parallel,Race/class/materiality,Race/ethnicity in Genesis and class/costume in Matthew show social-difference questions across corpora.,medium
+jones_2025,neuwirth_2010,comparative direction,Comparative wisdom/late antiquity,Comparative work increasingly moves from source parallels to thick cultural worlds.,low

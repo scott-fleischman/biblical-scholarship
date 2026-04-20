@@ -1,0 +1,42 @@
+version: 1
+purpose: "Article-level debate harvesting for biblical-scholarship repository"
+search_protocol:
+  current_window_months: 24
+  backward_trace_depth: 5
+  minimum_edges_per_new_article: 3
+  verification_statuses:
+    - web-verified
+    - library-verified
+    - needs-page-verification
+    - recent-literature seed
+queries:
+  historical_jesus_anti_roman:
+    databases: [Atla, JSTOR, Project_MUSE, Brill, Google_Scholar]
+    query: '("insurgent Jesus" OR "anti-Roman Jesus" OR "seditious Jesus" OR Bermejo-Rubio) AND ("historical Jesus" OR crucifixion)'
+  mark_house_family:
+    databases: [Atla, SAGE, Cambridge_Core, Google_Scholar]
+    query: '("Mark 2.15" OR "Mark 2:15") AND (house OR Levi OR Jesus OR family OR αὐτοῦ)'
+  synoptic_q_farrer:
+    databases: [Atla, Cambridge_Core, SAGE, JSTOR]
+    query: '("Synoptic Problem" AND (Q OR Farrer OR Griesbach OR "Two-Gospel"))'
+  paul_within_judaism:
+    databases: [Atla, Project_MUSE, SAGE, Cambridge_Core]
+    query: '("Paul within Judaism" OR "Paul and Judaism" OR "new perspective on Paul" OR "apocalyptic Paul")'
+  revelation_gender_empire:
+    databases: [Atla, SAGE, Project_MUSE, JSTOR]
+    query: '("Revelation" AND (gender OR violence OR empire OR decolonial OR "New Jerusalem"))'
+  lxx_textual_development:
+    databases: [Atla, Brill, Project_MUSE, CBQ, Google_Scholar]
+    query: '(Septuagint OR LXX) AND ("textual development" OR canon OR "Genesis 1" OR Hosea OR Jeremiah)'
+  dss_forgeries:
+    databases: [Brill, Atla, JSTOR, Google_Scholar]
+    query: '("fake Dead Sea Scrolls" OR "Dead Sea Scrolls" AND forger* OR provenance)'
+  global_translated_bibles:
+    databases: [Atla, Project_MUSE, SAGE]
+    query: '("global translated Bible" OR "Bible translation" AND (postcolonial OR feminist OR pedagogy OR Sinicized))'
+  race_class_bible:
+    databases: [Atla, Brill, Project_MUSE, SAGE]
+    query: '(race OR ethnicity OR class OR costume) AND ("Hebrew Bible" OR "New Testament" OR "Genesis 10" OR "Matthew 11")'
+  rabbinics_law_literature:
+    databases: [RAMBI, Index_Theologicus, JSTOR, Project_MUSE]
+    query: '(rabbinic OR Talmud OR midrash) AND ("law as literature" OR redaction OR stammaitic OR intertextuality)'

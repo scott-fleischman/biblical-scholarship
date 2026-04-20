@@ -1,0 +1,117 @@
+# 05. Historical Jesus, Synoptic Problem, and Gospel Dialogues
+
+This file traces Jesus research, Synoptic Problem, Q/Farrer, Mark 2.15, Gospel audiences, Mark/empire, and Luke-Acts language debates.
+
+**Nodes represented:** 55. **Edges represented:** 51.
+
+## Core nodes
+
+- `sfiorenza_1983` — Elisabeth Schüssler Fiorenza (1983), *In Memory of Her*. Foundational feminist reconstruction [needs-page-verification].
+- `beavis_2026` — Mary Ann Beavis (2026), *Tabitha the Disciple: Female Agency in Acts*. Current feminist Acts article [web-verified].
+- `douglas_2026_gender` — Sally Douglas (2026), *Home in Time for Dinner*. Current gendered meal-scene reading [web-verified].
+- `bultmann_1921` — Rudolf Bultmann (1921), *The History of the Synoptic Tradition*. Classic form-critical model for synoptic tradition [needs-page-verification].
+- `burridge_1992` — Richard A. Burridge (1992), *What Are the Gospels?*. Gospels as Greco-Roman bioi [needs-page-verification].
+- `bauckham_1998` — Richard Bauckham (1998), *The Gospels for All Christians*. Challenges community-specific Gospel audiences [needs-page-verification].
+- `gregor_blais_2024` — Brian Gregor and Andrew Blais (2024), *Against Bauckham on Gospel Audiences*. Recent JSNT article contra Bauckham 2017/1998 [web-verified].
+- `wrede_1901` — William Wrede (1901), *The Messianic Secret*. Classic theory of Markan theological secrecy [needs-page-verification].
+- `rhoads_dewey_michie_1982` — David Rhoads, Joanna Dewey, and Donald Michie (1982), *Mark as Story*. Narrative-critical Markan method [needs-page-verification].
+- `kelber_1983` — Werner H. Kelber (1983), *The Oral and the Written Gospel*. Orality/writing turn in Mark studies [needs-page-verification].
+- `malbon_1985` — Elizabeth Struthers Malbon (1985), *ΤΗ ΟΙΚΙΑ ΑΥΤΟΥ: Mark 2.15 in Context*. Classic Mark 2.15 house-referent article [web-verified].
+- `myers_1988` — Ched Myers (1988), *Binding the Strong Man*. Political/imperial reading of Mark [needs-page-verification].
+- `may_1993` — David M. May (1993), *Mark 2.15: The Home of Jesus or Levi?*. Direct response to Malbon on house referent [web-verified].
+- `delgado_2026` — Alfredo Delgado Gómez (2026), *In Response to the Image and Inscription of Caesar*. Current rhetorical/empire reading of Mark 12 [web-verified].
+- `may_2026` — David M. May (2026), *A Retrospective on Mark 2.15*. Retrospective in current special issue [web-verified].
+- `malbon_2026` — Elizabeth Struthers Malbon (2026), *Mark 2.15 in Even Broader Context: A Reflection*. Retrospective in current special issue [web-verified].
+- `doole_2026` — J. Andrew Doole (2026), *Revisiting Jesus's House*. Current contribution to house debate [web-verified].
+- `douglas_2026` — Sally Douglas (2026), *Home in Time for Dinner*. Extends house debate to dinner scenes/gender [web-verified].
+- `glaser_2026` — Timo Glaser (2026), *The House, the Table, and the Message*. Extends Mark meals via ancient Jewish missions [web-verified].
+- `alow_2026` — Tobias Ålöw (2026), *Whose House? Revisiting the Referent of αὐτοῦ in Mark 2.15*. Current direct revisit of Malbon/May debate [web-verified].
+- `genter_2026` — John Genter (2026), *The Messianic Secret in Matthew's Gospel*. Revisits Wredean motif in Matthew [web-verified].
+- `chavel_2025` — S. B. Chavel (2025), *Race and Ethnicity at Genesis 10 and the Idea of 'Semites'*. Current race/ethnicity article [web-verified].
+- `reimarus_1778` — Hermann Samuel Reimarus (1778), *Fragments*. Initiates modern Jesus/church distinction [needs-page-verification].
+- `strauss_1835` — David Friedrich Strauss (1835), *The Life of Jesus Critically Examined*. Mythic interpretation of Gospel narratives [needs-page-verification].
+- `schweitzer_1906` — Albert Schweitzer (1906), *The Quest of the Historical Jesus*. Apocalyptic critique of liberal Jesus portraits [needs-page-verification].
+- `kasemann_1954` — Ernst Käsemann (1954), *The Problem of the Historical Jesus*. Reopens quest after Bultmann [needs-page-verification].
+- `sanders_1985` — E. P. Sanders (1985), *Jesus and Judaism*. Jewish restoration/Temple action model [needs-page-verification].
+- `crossan_1991` — John Dominic Crossan (1991), *The Historical Jesus*. Jesus as Mediterranean Jewish peasant and sage [needs-page-verification].
+- `meier_1991` — John P. Meier (1991), *A Marginal Jew, vol. 1*. Large-scale criteria-based reconstruction [needs-page-verification].
+- `wright_1996` — N. T. Wright (1996), *Jesus and the Victory of God*. Jesus as prophet of Israel's return from exile [needs-page-verification].
+- `allison_2010` — Dale C. Allison Jr. (2010), *Constructing Jesus*. Memory and recurring-pattern approach [needs-page-verification].
+- `keith_ledonne_2012` — Chris Keith and Anthony Le Donne (2012), *Jesus, Criteria, and the Demise of Authenticity*. Programmatic critique of classic criteria [needs-page-verification].
+- `bermejo_2023` — Fernando Bermejo-Rubio (2023), *They Suffered Under Pontius Pilate*. Insurrectionist/anti-Roman reconstruction [needs-page-verification].
+- `worthington_2025` — Bruce W. Worthington (2025), *There Is No 'They' without a 'He'*. Review article using decolonial approaches to Bermejo-Rubio [web-verified].
+- `crossley_2025` — James G. Crossley (2025), *The Past, Present, and Future of an Insurgent Jesus*. Traces history of insurgent/seditious Jesus idea [web-verified].
+- `middleton_2025` — Paul Middleton (2025), *How Much History Can the Gospels Bear?*. Responds to Bermejo-Rubio via history/method question [web-verified].
+- `jshj_special_2025` — Robert J. Myles et al. (2025), *They Suffered Under Pontius Pilate: Jewish Anti-Roman Resistance and the Crosses at Golgotha*. Special-issue debate over Bermejo-Rubio and insurgent Jesus [web-verified].
+- `myles_2026` — Robert J. Myles (2026), *Soft Clothing, Hard Jesus: Costume and the Rhetoric of Class in Matthew 11:7-19 and Q 7:24-35*. Current class/material-culture Jesus article [web-verified].
+- `brown_john_1979` — Raymond E. Brown (1979), *The Community of the Beloved Disciple*. Historical community reconstruction [needs-page-verification].
+- `seglenieks_2025` — Meredith J. C. Warren / Mark? Seglenieks (2025), *John, Social Identity, and Gospel Audience*. Recent John audience article seed [needs-verification].
+- `kochenash_2024` — Michael Kochenash (2024), *The Census, Josephus, and Luke's Narrative Strategy*. Recent Luke historiography article [web-verified].
+- `bruehler_2026` — Bart B. Bruehler (2026), *Truly Human, Truly Divine: Positive Emotion as a Component of Luke's Christology*. Current affect-Christology article [web-verified].
+- `chan_2026` — Joshua Chan (2026), *Multilingual Speech from Heaven: Reading Acts 2:3 through Ancient Conceptions of Tongues*. Current multilingual/language article [web-verified].
+- `murray_2026` — Timothy Murray (2026), *The Social Location of Luke and Acts: A Model of Ancient Multilingualism*. Current social-location model [web-verified].
+- `gathercole_2025` — Simon Gathercole (2025), *When Will the Thessalonians Meet the Lord? Revisiting the Timing of the Parousia*. Recent parousia/intertext debate [needs-verification].
+- `wilson_vandeweghe_2026` — Aaron Wilson and James van de Weghe (2026), *Re-Examining the Statistical Evidence for the Influence of Mark 13 on 2 Thessalonians 2.1-12*. Responds to 2024 article and Bauckham intertextual thesis [web-verified].
+- `streeter_1924` — B. H. Streeter (1924), *The Four Gospels*. Classic four-document/two-source theory [needs-page-verification].
+- `farrer_1955` — Austin Farrer (1955), *On Dispensing with Q*. Rejects Q; Luke used Matthew [needs-page-verification].
+- `farmer_1964` — William R. Farmer (1964), *The Synoptic Problem*. Modern defense of Griesbach/Two-Gospel [needs-page-verification].
+- `sanders_1969` — E. P. Sanders (1969), *The Tendencies of the Synoptic Tradition*. Critiques simplistic laws of transmission [needs-page-verification].
+- `goulder_1989` — Michael Goulder (1989), *Luke: A New Paradigm*. Detailed Farrer/Luke-used-Matthew case [needs-page-verification].
+- `goodacre_2002` — Mark Goodacre (2002), *The Case Against Q*. Major anti-Q Farrer case [needs-page-verification].
+- `duncanson_2025` — B. Duncanson (2025), *Q and/or the Farrer Hypothesis?*. Recent synoptic-problem article to harvest [needs-verification].
+- `kloppenborg_1987` — John S. Kloppenborg (1987), *The Formation of Q*. Classic Q stratification model [needs-page-verification].
+- `tuckett_1996` — Christopher M. Tuckett (1996), *Q and the History of Early Christianity*. Major Q defense [needs-page-verification].
+
+## Dialogue edges
+
+- `strauss_1835` → **radicalizes** → `reimarus_1778`: Turns Jesus/church distinction into myth-critical Gospel analysis. (Historical Jesus; confidence: high).
+- `schweitzer_1906` → **critiques/synthesizes** → `strauss_1835`: Critiques liberal lives and centers eschatology/apocalypticism. (Historical Jesus; confidence: high).
+- `bultmann_1921` → **reframes** → `schweitzer_1906`: Moves from life of Jesus to form history of tradition units. (Synoptic tradition; confidence: high).
+- `kasemann_1954` → **responds** → `bultmann_1921`: Reopens quest while accepting form-critical problems. (Historical Jesus; confidence: high).
+- `sanders_1985` → **reorients** → `kasemann_1954`: Moves toward Jewish restoration, Temple action, and secure historical facts. (Historical Jesus; confidence: high).
+- `crossan_1991` → **contrasts** → `sanders_1985`: Contrasts apocalyptic/restoration Jesus with sapiential/social-revolution model. (Historical Jesus; confidence: high).
+- `meier_1991` → **parallel/develops** → `sanders_1985`: Builds criteria-based reconstruction in relation to Jewish-context turn. (Historical Jesus; confidence: high).
+- `wright_1996` → **extends/revises** → `sanders_1985`: Places Jesus in exile/restoration symbolic worldview. (Historical Jesus; confidence: high).
+- `allison_2010` → **critiques/revises** → `meier_1991`: Moves beyond atomistic criteria toward memory and recurring patterns. (Historical Jesus method; confidence: high).
+- `keith_ledonne_2012` → **critiques** → `meier_1991`: Programmatic critique of authenticity criteria. (Historical Jesus method; confidence: high).
+- `bermejo_2023` → **revives/revises** → `schweitzer_1906`: Revives anti-Roman/apocalyptic/political Jesus trajectory. (Insurgent Jesus; confidence: medium).
+- `jshj_special_2025` → **responds** → `bermejo_2023`: Special issue gathers direct and indirect responses to Bermejo-Rubio. (Insurgent Jesus; confidence: high).
+- `middleton_2025` → **critiques** → `bermejo_2023`: Questions how much history the Gospels can bear for insurgent reconstruction. (Insurgent Jesus; confidence: medium).
+- `worthington_2025` → **methodological response** → `bermejo_2023`: Uses decolonial approaches and critiques strict secular historiography. (Insurgent Jesus; confidence: medium).
+- `crossley_2025` → **historicizes** → `bermejo_2023`: Traces past/present/future of insurgent Jesus idea. (Insurgent Jesus; confidence: medium).
+- `myles_2026` → **reorients** → `schweitzer_1906`: Class/costume reading shifts from apocalyptic to material rhetoric. (Jesus class/materiality; confidence: medium).
+- `farrer_1955` → **rejects** → `streeter_1924`: Rejects Q by positing Luke's use of Matthew. (Synoptic Problem; confidence: high).
+- `farmer_1964` → **rejects** → `streeter_1924`: Defends Two-Gospel/Griesbach against two-source theory. (Synoptic Problem; confidence: high).
+- `sanders_1969` → **qualifies** → `streeter_1924`: Challenges simple assumptions about tendencies in synoptic tradition. (Synoptic Problem; confidence: high).
+- `goulder_1989` → **develops** → `farrer_1955`: Develops Farrer hypothesis in detail for Luke. (Synoptic Problem; confidence: high).
+- `kloppenborg_1987` → **develops** → `streeter_1924`: Provides stratified literary history of Q. (Q; confidence: high).
+- `goodacre_2002` → **challenges** → `kloppenborg_1987`: Major critique of Q and defense of Farrer. (Q/Farrer; confidence: high).
+- `tuckett_1996` → **opposes/anticipates** → `goodacre_2002`: Defends Q and its role in early Christian history. (Q; confidence: medium).
+- `duncanson_2025` → **reopens** → `goodacre_2002`: Recent article seed for updated Q/Farrer debate. (Q/Farrer; confidence: low).
+- `kelber_1983` → **reframes** → `bultmann_1921`: Moves form criticism into oral/written media theory. (Orality/Mark; confidence: high).
+- `rhoads_dewey_michie_1982` → **reframes** → `wrede_1901`: Moves from secrecy source/theology to narrative-critical reading. (Mark narrative; confidence: medium).
+- `myers_1988` → **politicizes** → `wrede_1901`: Reads Mark as political/apocalyptic resistance narrative. (Mark/empire; confidence: medium).
+- `may_1993` → **responds** → `malbon_1985`: Directly questions whether house is Jesus's or Levi's. (Mark 2.15 house; confidence: high).
+- `malbon_2026` → **retrospective** → `malbon_1985`: Revisits original article in wider context. (Mark 2.15 house; confidence: high).
+- `may_2026` → **retrospective** → `may_1993`: Revisits his response to Malbon. (Mark 2.15 house; confidence: high).
+- `alow_2026` → **revisits** → `malbon_1985`: Reassesses referent of αὐτοῦ and syntax/context. (Mark 2.15 house; confidence: high).
+- `alow_2026` → **revisits** → `may_1993`: Reopens May's counterargument with current analysis. (Mark 2.15 house; confidence: high).
+- `doole_2026` → **revisits** → `malbon_1985`: Reconsiders Jesus's house option. (Mark 2.15 house; confidence: medium).
+- `douglas_2026` → **extends** → `malbon_1985`: Expands house question into gendered dinner scenes. (Mark houses/gender; confidence: medium).
+- `glaser_2026` → **extends** → `malbon_1985`: Expands house/table question into Jewish mission contexts. (Mark meals/mission; confidence: medium).
+- `burridge_1992` → **reframes** → `bultmann_1921`: Shifts from form history to bios genre analysis. (Gospel genre; confidence: high).
+- `bauckham_1998` → **challenges** → `brown_john_1979`: Challenges community-specific Gospel reconstructions. (Gospel audiences; confidence: medium).
+- `gregor_blais_2024` → **responds/challenges** → `bauckham_1998`: Recent counterargument against Bauckham's audience thesis. (Gospel audiences; confidence: medium).
+- `wilson_vandeweghe_2026` → **responds** → `gregor_blais_2024`: Re-examines statistical evidence in a recent JSNT exchange. (Mark/2 Thess intertext; confidence: high).
+- `delgado_2026` → **extends** → `myers_1988`: Current rhetorical analysis of Caesar image/inscription continues empire reading. (Mark/empire; confidence: medium).
+- `genter_2026` → **extends/revises** → `wrede_1901`: Applies/reevaluates secrecy motif in Matthew. (Messianic Secret; confidence: medium).
+- `murray_2026` → **extends** → `kelber_1983`: Multilingualism as social-location model for Luke-Acts. (Luke-Acts language/social location; confidence: medium).
+- `chan_2026` → **parallel** → `murray_2026`: Ancient conceptions of tongues complement multilingualism work. (Acts multilingualism; confidence: medium).
+- `kochenash_2024` → **extends** → `burridge_1992`: Census/Josephus article sits in Gospel historiography/narrative strategy debate. (Luke historiography; confidence: low).
+- `bruehler_2026` → **extends** → `allison_2010`: Affect/emotion turn builds on embodied/memory-sensitive Gospel readings. (Emotion/Christology; confidence: low).
+- `gathercole_2025` → **parallel/debate** → `wilson_vandeweghe_2026`: Recent parousia chronology and Mark/2 Thess intertext debates overlap. (Parousia/2 Thessalonians; confidence: low).
+- `seglenieks_2025` → **responds** → `bauckham_1998`: Recent seed in Gospel audience/social identity debate. (John audience; confidence: low).
+- `beavis_2026` → **extends** → `sfiorenza_1983`: Current Acts article continues early Christian women/agency research. (Female agency in Acts; confidence: medium).
+- `douglas_2026_gender` → **extends** → `sfiorenza_1983`: Gendered dinner-scene analysis in Mark extends feminist NT interpretation. (Gender/meal scenes; confidence: medium).
+- `murray_2026` → **parallel** → `chan_2026`: Luke-Acts social multilingualism and Acts 2 tongues belong in the same language-turn cluster. (Multilingualism; confidence: high).
+- `chavel_2025` → **parallel** → `myles_2026`: Race/ethnicity in Genesis and class/costume in Matthew show social-difference questions across corpora. (Race/class/materiality; confidence: medium).

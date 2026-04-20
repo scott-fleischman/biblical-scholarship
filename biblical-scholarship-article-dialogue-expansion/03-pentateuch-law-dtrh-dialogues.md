@@ -1,0 +1,116 @@
+# 03. Pentateuch, Law, DtrH, and History Dialogues
+
+This file traces source criticism, compositional history, law, covenant, Deuteronomistic History, and archaeology/history debates.
+
+**Nodes represented:** 56. **Edges represented:** 49.
+
+## Core nodes
+
+- `finkelstein_2001` — Israel Finkelstein and Neil Asher Silberman (2001), *The Bible Unearthed*. Popular/minimalist-leaning archaeology synthesis [needs-page-verification].
+- `dever_2003` — William G. Dever (2003), *Who Were the Early Israelites and Where Did They Come From?*. Archaeological synthesis against extreme minimalism [needs-page-verification].
+- `mazar_2005` — Amihai Mazar (2005), *The Debate over the Chronology of the Iron Age in the Southern Levant*. Balanced chronology intervention [needs-page-verification].
+- `rouse_2024` — Kimberly Rouse (2024), *The Altar on Mount Ebal and the Israelite Settlement*. Recent archaeology/text article [web-verified].
+- `smiley_2025` — B. Smiley (2025), *Computational Parallel Detection and Inner-Biblical Allusion*. Recent computational intertext seed [needs-verification].
+- `noth_1943` — Martin Noth (1943), *The Deuteronomistic History*. Foundational unified Deuteronomistic History [needs-page-verification].
+- `cross_1973` — Frank Moore Cross (1973), *The Themes of the Book of Kings and the Structure of the Deuteronomistic History*. Double redaction model [needs-page-verification].
+- `nelson_1981` — Richard D. Nelson (1981), *The Double Redaction of the Deuteronomistic History*. Develops Cross's double redaction [needs-page-verification].
+- `roemer_2005` — Thomas Römer (2005), *The So-Called Deuteronomistic History*. European reassessment of DtrH [needs-page-verification].
+- `gottwald_1979` — Norman K. Gottwald (1979), *The Tribes of Yahweh*. Social-scientific peasant-revolt model [needs-page-verification].
+- `knoppers_1993` — Gary N. Knoppers (1993), *Two Nations Under God*. Monarchy, theology, and historiography [needs-page-verification].
+- `mendenhall_1954` — George E. Mendenhall (1954), *Covenant Forms in Israelite Tradition*. Classic treaty-form comparison [needs-page-verification].
+- `weinfeld_1970` — Moshe Weinfeld (1970), *The Covenant of Grant in the Old Testament and in the Ancient Near East*. Differentiates grant and treaty models [needs-page-verification].
+- `fishbane_1985` — Michael Fishbane (1985), *Biblical Interpretation in Ancient Israel*. Foundational model of inner-biblical interpretation [needs-page-verification].
+- `westbrook_1988` — Raymond Westbrook (1988), *Studies in Biblical and Cuneiform Law*. Cuneiform/biblical law comparison [needs-page-verification].
+- `levinson_1997` — Bernard M. Levinson (1997), *Deuteronomy and the Hermeneutics of Legal Innovation*. Deuteronomy as revision of Covenant Code [needs-page-verification].
+- `barmash_2005` — Pamela Barmash (2005), *Homicide in the Biblical World*. Comparative homicide law [needs-page-verification].
+- `hocking_kline_2025` — I. H. Hocking and L. Kline (2025), *On the Enigma of Deuteronomy 20:19-20*. Recent legal/ecological debate on Deut 20 [web-verified].
+- `segal_2025` — M. Segal (2025), *From the Jordan to Mt. Ebal and Back*. Recent law/narrative article [web-verified].
+- `magori_2026` — Ohad Magori (2026), *Theft of Livestock in the Covenant Code*. Current article on legal history [web-verified].
+- `lasine_2026` — Stuart Lasine (2026), *Cain and the Book of Jonah*. Recent intertextual reading [web-verified].
+- `scott_2026` — Samantha Scott (2026), *Provisioning the Persians: Posing Persia in Ezra 6.8-12*. Recent imperial-administration reading [web-verified].
+- `wellhausen_1878` — Julius Wellhausen (1878), *Prolegomena zur Geschichte Israels*. Classical JEDP source-critical synthesis [needs-page-verification].
+- `gunkel_1901` — Hermann Gunkel (1901), *Genesis*. Moves Genesis to genres, sagas, oral traditions [needs-page-verification].
+- `vonrad_1938` — Gerhard von Rad (1938), *The Form-Critical Problem of the Hexateuch*. Traces Hexateuchal tradition through liturgical credo [needs-page-verification].
+- `noth_1948` — Martin Noth (1948), *A History of Pentateuchal Traditions*. Breaks source model into smaller tradition complexes [needs-page-verification].
+- `vanseters_1975` — John Van Seters (1975), *Abraham in History and Tradition*. Rejects early patriarchal historicity and revises dating of Yahwist [needs-page-verification].
+- `rendtorff_1977` — Rolf Rendtorff (1977), *The Problem of the Process of Transmission in the Pentateuch*. Challenges classical source documents [needs-page-verification].
+- `blum_1984` — Erhard Blum (1984), *Die Komposition der Vätergeschichte*. Compositional history as alternative to classical source division [needs-page-verification].
+- `whybray_1987` — R. N. Whybray (1987), *The Making of the Pentateuch*. Skeptical review of documentary models [needs-page-verification].
+- `nihan_2007` — Christophe Nihan (2007), *From Priestly Torah to Pentateuch*. P as editorial/legal-theological project [needs-page-verification].
+- `baden_2009` — Joel S. Baden (2009), *J, E, and the Redaction of the Pentateuch*. Revives a refined documentary approach [needs-page-verification].
+- `carr_2011` — David M. Carr (2011), *The Formation of the Hebrew Bible*. Compares models through scribal transmission [needs-page-verification].
+- `schmid_2012` — Konrad Schmid (2012), *The Old Testament: A Literary History*. European literary-historical synthesis [needs-page-verification].
+- `stackert_2014` — Jeffrey Stackert (2014), *A Prophet Like Moses*. Deuteronomy and priestly/Jeremiah traditions as inner-biblical interpretation [needs-page-verification].
+- `milstein_2016` — Sara J. Milstein (2016), *Tracking the Master Scribe*. Doublets and scribal culture [needs-page-verification].
+- `dayfani_2025` — Hila Dayfani (2025), *The Priestly Stratum in the Book of Genesis: A Materialist Foundation*. Current materialist intervention in P debate [web-verified].
+- `chavel_2025` — S. B. Chavel (2025), *Race and Ethnicity at Genesis 10 and the Idea of 'Semites'*. Current race/ethnicity article [web-verified].
+- `yu_2026` — Jihye Yu (2026), *Cultural Memory in Deuteronomy 4 and 32*. Current Deuteronomy memory article [web-verified].
+- `zhang_2026` — Zara Zhang (2026), *Sintflut and Sinai: Genesis 6-8's Allusion to Exodus 24-40*. Current cross-Pentateuch allusion article [web-verified].
+- `jones_2025` — Jordan Jones (2025), *Could the Preacher Have Learned from the Teaching of Khety?*. Current Egyptological wisdom comparison [web-verified].
+- `myles_2026` — Robert J. Myles (2026), *Soft Clothing, Hard Jesus: Costume and the Rhetoric of Class in Matthew 11:7-19 and Q 7:24-35*. Current class/material-culture Jesus article [web-verified].
+- `schwartz_dei_verbum_2026` — Ethan Schwartz (2026), *Tradition-Informed Historical Criticism: A Jewish Reading of Dei Verbum 12*. Current cross-tradition hermeneutical article [web-verified].
+- `nanos_1996` — Mark D. Nanos (1996), *The Mystery of Romans*. Jewish-community reading of Romans [needs-page-verification].
+- `sanders_1977_paul` — E. P. Sanders (1977), *Paul and Palestinian Judaism*. Launches New Perspective baseline [needs-page-verification].
+- `dunn_1983` — James D. G. Dunn (1983), *The New Perspective on Paul*. Names New Perspective; ethnocentric boundary markers [needs-page-verification].
+- `wright_1997_paul` — N. T. Wright (1997), *What Saint Paul Really Said*. Popular/theological New Perspective synthesis [needs-page-verification].
+- `akagi_2026` — Kai Akagi (2026), *From Eph 3.15 Back to Eph 1.10*. Current sociological-exegetical Ephesians article [web-verified].
+- `boyarin_1990` — Daniel Boyarin (1990), *Intertextuality and the Reading of Midrash*. Literary/intertextual turn in midrash [needs-page-verification].
+- `fraade_1991` — Steven D. Fraade (1991), *From Tradition to Commentary*. Rabbinic commentary and pedagogy [needs-page-verification].
+- `hayes_1997` — Christine Hayes (1997), *Between the Babylonian and Palestinian Talmuds*. Comparative Bavli/Yerushalmi method [needs-page-verification].
+- `hezser_2001` — Catherine Hezser (2001), *Jewish Literacy in Roman Palestine*. Social history of literacy [needs-page-verification].
+- `berkowitz_2006` — Beth A. Berkowitz (2006), *Execution and Invention*. Rabbinic execution and Roman law [needs-page-verification].
+- `balberg_2017` — Mira Balberg (2017), *Blood for Thought*. Rabbinic sacrifice after Temple [needs-page-verification].
+- `koren_2025` — Yedida Koren (2025), *Reading Rabbinic Law as Literature*. Recent rabbinics article seed [needs-verification].
+- `zahn_2020` — Molly M. Zahn (2020), *Genres of Rewriting in Second Temple Judaism*. Second Temple evidence for textual rewriting [needs-page-verification].
+
+## Dialogue edges
+
+- `gunkel_1901` → **supplements/reframes** → `wellhausen_1878`: Adds form/oral-genre questions to documentary literary source division. (Pentateuch sources; confidence: high).
+- `vonrad_1938` → **extends** → `gunkel_1901`: Extends form-critical interests into cultic/tradition-historical reconstruction. (Pentateuch tradition history; confidence: high).
+- `noth_1948` → **revises** → `wellhausen_1878`: Shifts emphasis from full documents to tradition complexes and growth processes. (Pentateuch sources; confidence: high).
+- `rendtorff_1977` → **challenges** → `wellhausen_1878`: Questions coherence of large J/E/P/D documents. (Pentateuch sources; confidence: high).
+- `vanseters_1975` → **re-dates/revises** → `wellhausen_1878`: Rejects early Yahwist and patriarchal historicity assumptions. (Pentateuch sources; confidence: high).
+- `blum_1984` → **develops** → `rendtorff_1977`: Builds compositional-history model after critique of source documents. (Pentateuch composition; confidence: high).
+- `whybray_1987` → **critiques** → `wellhausen_1878`: Offers sweeping skeptical review of source analysis. (Pentateuch sources; confidence: medium).
+- `baden_2009` → **responds/revives** → `rendtorff_1977`: Restates a stricter neo-documentary method against anti-documentary critiques. (Pentateuch sources; confidence: high).
+- `carr_2011` → **historicizes** → `wellhausen_1878`: Places source/redaction debates within broader scribal transmission processes. (Pentateuch formation; confidence: high).
+- `schmid_2012` → **synthesizes** → `blum_1984`: European literary-historical synthesis of formation models. (Pentateuch composition; confidence: medium).
+- `nihan_2007` → **revises** → `wellhausen_1878`: Treats P as complex editorial/legal-theological project rather than simple source layer. (Priestly literature; confidence: high).
+- `stackert_2014` → **extends** → `fishbane_1985`: Uses inner-biblical interpretation to compare Deuteronomic, priestly, and prophetic traditions. (Inner-biblical legal interpretation; confidence: high).
+- `milstein_2016` → **extends** → `carr_2011`: Uses scribal mechanics and doublets to refine formation models. (Scribal revision; confidence: medium).
+- `zahn_2020` → **extends** → `fishbane_1985`: Uses Second Temple rewriting to illuminate biblical rewriting practices. (Rewritten scripture; confidence: high).
+- `dayfani_2025` → **intervenes** → `nihan_2007`: Reopens P via materialist foundation and Genesis stratum. (Priestly literature; confidence: medium).
+- `zhang_2026` → **extends** → `fishbane_1985`: Reads Genesis flood/Sinai correspondences as allusive literary work. (Inner-biblical allusion; confidence: medium).
+- `yu_2026` → **extends** → `carr_2011`: Connects Deuteronomy formation to cultural-memory approaches. (Cultural memory; confidence: medium).
+- `weinfeld_1970` → **revises** → `mendenhall_1954`: Differentiates royal grant from suzerainty treaty models. (Covenant forms; confidence: high).
+- `fishbane_1985` → **broadens** → `weinfeld_1970`: Moves from treaty comparison toward scriptural interpretation within the Bible. (Inner-biblical exegesis; confidence: medium).
+- `levinson_1997` → **extends** → `fishbane_1985`: Makes Deuteronomy a major test case for legal revision and innovation. (Legal hermeneutics; confidence: high).
+- `barmash_2005` → **extends** → `westbrook_1988`: Applies comparative legal method to biblical homicide law. (Comparative law; confidence: medium).
+- `hocking_kline_2025` → **extends** → `levinson_1997`: Recent legal/ecological issue in Deut 20 debates. (Deuteronomic law; confidence: low).
+- `magori_2026` → **extends** → `westbrook_1988`: Current property-law article continues comparative legal study. (Covenant Code; confidence: medium).
+- `chavel_2025` → **reorients** → `wellhausen_1878`: Moves classic ethnological readings into race/ethnicity critique. (Genesis 10; race; confidence: medium).
+- `segal_2025` → **extends** → `fishbane_1985`: Recent law-narrative textual dynamics test case. (Deut/Josh intertext; confidence: medium).
+- `cross_1973` → **revises** → `noth_1943`: Proposes Josianic and exilic double redaction rather than one exilic work. (Deuteronomistic History; confidence: high).
+- `nelson_1981` → **develops** → `cross_1973`: Full monograph development of double-redaction model. (Deuteronomistic History; confidence: high).
+- `roemer_2005` → **reassesses** → `noth_1943`: Synthesizes European debates and plural redactional growth. (Deuteronomistic History; confidence: high).
+- `knoppers_1993` → **extends** → `cross_1973`: Analyzes monarchy theology and history within DtrH debate. (Kings/monarchy; confidence: medium).
+- `gottwald_1979` → **radicalizes** → `mendenhall_1954`: Turns conquest/settlement toward social-revolution model. (Israelite origins; confidence: high).
+- `dever_2003` → **responds** → `finkelstein_2001`: Defends more positive archaeological reconstruction against minimalist tendencies. (Archaeology/history; confidence: high).
+- `mazar_2005` → **moderates** → `finkelstein_2001`: Offers balanced/modified chronology debate. (Iron Age chronology; confidence: medium).
+- `rouse_2024` → **extends** → `dever_2003`: Reenters settlement archaeology/textual discussion through Ebal altar. (Mt. Ebal/settlement; confidence: medium).
+- `scott_2026` → **extends** → `roemer_2005`: Brings Persian imperial-administration questions into postexilic textual reading. (Persian period; confidence: medium).
+- `lasine_2026` → **extends** → `fishbane_1985`: Current intertextual narrative reading of Jonah through Cain traditions. (Jonah/Cain intertext; confidence: low).
+- `jones_2025` → **extends** → `westbrook_1988`: Uses Egyptian Khety as comparative background to Qohelet. (Wisdom comparanda; confidence: low).
+- `dunn_1983` → **names/develops** → `sanders_1977_paul`: Coins/develops New Perspective, focusing on works of law as boundary markers. (New Perspective; confidence: high).
+- `wright_1997_paul` → **extends** → `dunn_1983`: Covenant and ecclesiology-focused popular/theological synthesis. (New Perspective; confidence: medium).
+- `nanos_1996` → **reorients** → `dunn_1983`: Reads Romans within Jewish communal settings rather than post-Jewish Christianity. (Paul within Judaism; confidence: high).
+- `akagi_2026` → **extends** → `dunn_1983`: Sociological/exegetical reading of household/family language in Ephesians. (Ephesians sociology; confidence: medium).
+- `fraade_1991` → **extends** → `boyarin_1990`: Pedagogy/commentary as rabbinic interpretive practice. (Rabbinic commentary; confidence: medium).
+- `hezser_2001` → **social-historical extension** → `fraade_1991`: Places rabbinic textuality in social-historical literacy context. (Literacy; confidence: medium).
+- `berkowitz_2006` → **extends** → `hayes_1997`: Rabbinic law in Roman legal/cultural context. (Rabbinic law; confidence: medium).
+- `balberg_2017` → **extends** → `berkowitz_2006`: Cognitive and ritual analysis of sacrifice after Temple. (Rabbinic ritual/law; confidence: medium).
+- `koren_2025` → **extends** → `boyarin_1990`: Recent article seed in literary rabbinic law discussion. (Rabbinic law as literature; confidence: low).
+- `schwartz_dei_verbum_2026` → **cross-tradition dialogue** → `fraade_1991`: Current Jewish reading of Catholic historical-critical hermeneutics. (Jewish/Catholic hermeneutics; confidence: medium).
+- `smiley_2025` → **parallel** → `zhang_2026`: Computational parallel detection intersects with literary allusion work. (Computational allusion; confidence: low).
+- `smiley_2025` → **extends** → `fishbane_1985`: Digital methods applied to inner-biblical exegesis/allusion search. (Inner-biblical allusion; confidence: low).
+- `chavel_2025` → **parallel** → `myles_2026`: Race/ethnicity in Genesis and class/costume in Matthew show social-difference questions across corpora. (Race/class/materiality; confidence: medium).
